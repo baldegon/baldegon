@@ -5,7 +5,7 @@
 <p align="left">
 
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bladimir-zink-56989a23b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bladimir-holmann-zink-56989a23b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BeFcUSRlZS62OqsoIku%2FlSQ%3D%3D" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bladimir-zink-56989a23b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bladimir-holmann-zink-56989a23b/" height="30" width="40" /></a>
 <a href="https://instagram.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="perfil_instagram" height="40" width="40" /></a>
 <a href="https://x.com/BladiZink" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/81/81725.png" alt="https://www.linkedin.com/in/bladimir-zink-56989a23b/" height="40" width="40" /></a>
 </p>
