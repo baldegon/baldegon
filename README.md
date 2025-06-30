@@ -19,16 +19,17 @@
 
 - 🔹 **Backend APIs** en .NET/C# para aplicaciones robustas y escalables  
 - 🔹 **Proyectos de juegos** usando Godot y Unity (Game Jams, clones, prototypes)  
-- 🔹 **Automatizaciones** y herramientas dev que me sacan de la zona de confort  
+- 🔹 **** y herramientas dev que me sacan de la zona de confort  
 
 ---
 
 ## 📌 Featured Projects
 
-- **Unity Learn & Portfolio** — Repositorio diario con ejercicios y proyectos prácticos en Unity.  
-- **I‑Comex GameJam** — Juego completo en GDScript desarrollado para la Game Jam local.  
-- **Mini‑on sGame** — Juego en C# CLI para Programación II.  
-- **Final Proyecto ITES Programming II** — App en JavaScript/C# como entrega final del curso.
+- **CRUD Para Productos para Tienda ** — Proyecto CRUD simple desarrollado en *Laravel / Vue* utilizando el Starter Kit propio de Laravel.  
+- **I‑Comex GameJam** — Juego (prototipo) en *GDScript / GODOT* desarrollado para la Game Jam local.  
+- **Minion-sGame** — Juego en *C# CLI* enfocado con los personajes Minion para la asignatura Programación II del ITES.  
+- **Tauros-Cocktails Web** — CRUD enfocado a la cocteleria desarrollado en *Astro / Tailwind / Supabase* como entrega final del curso.
+- **Think-In-Maps** — App (prototipo) para hacer Mapas Mentales y plasmar ideas de manera flexible y grafica Stack: *Astro / Tailwind / Supabase*.
 
 ---
 
